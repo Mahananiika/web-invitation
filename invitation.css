@@ -1,0 +1,9 @@
+.jumbotron{
+    background-color:white;
+    background-image: url(img/train-3169964_1920.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: red;
+
+}
